@@ -6,6 +6,11 @@
 //  Copyright © 2016 Brian Hernandez. All rights reserved.
 //
 
+//Resources for learning gesture based controls:
+//https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites
+//https://www.raywenderlich.com/category/ios
+//http://www.spritekitlessons.com/gesture-recognizer-with-sprite-kit-and-swift/
+
 import SpriteKit
 
 class GameScene: SKScene {
