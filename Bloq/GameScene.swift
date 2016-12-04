@@ -8,7 +8,6 @@
 
 //Resources for learning gesture based controls:
 //https://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites
-//https://www.raywenderlich.com/category/ios
 //http://www.spritekitlessons.com/gesture-recognizer-with-sprite-kit-and-swift/
 //https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=using+gesture+recognizer+in+spritekit+2016
 
